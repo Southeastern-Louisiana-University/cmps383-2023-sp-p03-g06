@@ -1,6 +1,6 @@
 import { StyleSheet, View } from "react-native";
-import React, {useEffect, useState} from 'react';
-import { Text, TextInput, Button } from "react-native-paper";
+import React, {useState} from 'react';
+import {TextInput, Button } from "react-native-paper";
 
 export default function SignUp( {navigation} ) {
 

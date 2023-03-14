@@ -1,6 +1,6 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import React, { useCallback, useEffect, useState } from 'react';
+//import { StatusBar } from 'expo-status-bar';
+import { StyleSheet} from 'react-native';
+import React from 'react';
 import Navigator from './navigation/Homestack';
 import { Provider as PaperProvider } from 'react-native-paper';
 import { NavigationContainer } from "@react-navigation/native";
